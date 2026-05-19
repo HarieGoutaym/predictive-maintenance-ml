@@ -98,7 +98,8 @@ DATA_DIR = "/path/to/your/Test_2"
 ## Authors
 
 ### Harie Goutaym D A  
-B.Tech ELC (IoT) — Amrita Vishwa Vidyapeetham  
+B.Tech Electrical and Computer Engineering 
+(Minor in IoT) — Amrita Vishwa Vidyapeetham  
 [GitHub](https://github.com/HarieGoutaym) | [LinkedIn](https://linkedin.com/in/harie-goutaym-d-a-67722a36a)
 
 ### Sarvesh V  

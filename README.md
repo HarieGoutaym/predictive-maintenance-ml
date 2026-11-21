@@ -107,3 +107,7 @@ B.Tech Electrical and Computer Engineering — Amrita Vishwa Vidyapeetham
 BS in Data Science and Applications — IIT Madras  
 
 [GitHub](https://github.com/Sarvesh4700) | [LinkedIn](www.linkedin.com/in/sarvesh43142929b)
+
+### Muthu Sivaram A P  
+B.Tech Electrical and Computer Engineering — Amrita Vishwa Vidyapeetham
+[GitHub](https://github.com/sivaram-707) | [LinkedIn](https://www.linkedin.com/in/muthu-sivaram-a-021482371)
